@@ -1,5 +1,5 @@
-## Tweets_Sentiment_analysis
-# Steps Followed:
+# Tweets_Sentiment_analysis
+## Steps Followed:
 Performed sentiment analysis by taking twitter feed with #brexit as the dataset.
 Pickup data from particular region and of particular timeframe.
 Pre process the data to remove twitter jargons.
