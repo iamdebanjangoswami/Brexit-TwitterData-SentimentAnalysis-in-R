@@ -7,7 +7,7 @@ library(stringr)
 library(shiny)
 library(shinydashboard)
 
-MyData <- read.csv(file="C:/Users/komal/Documents/Tweets/MyData.csv", header=TRUE, sep=",")
+MyData <- read.csv(file="C:/Users/debanjangoswami/Documents/Tweets/MyData.csv", header=TRUE, sep=",")
 
 
 bob <- lapply(MyData, as.character)
